@@ -17,10 +17,11 @@
 <b>Known Technologies:</b>
 <br>
 <ul>
-<li>Racket</li>
 <li>C</li>
 <li>Python</li>
 <li>HTML5 - CSS3</li>
+<li>Javascript (Node.JS)</li>
+<li>C# for Unity</li>
 </ul>
 
 <b>Recent Repositories:</b>
