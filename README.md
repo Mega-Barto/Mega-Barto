@@ -17,10 +17,10 @@
 <b>Known Technologies:</b>
 <br>
 <ul>
-<li>C</li>
+<li>Java for Automation Tests</li>
 <li>Python</li>
-<li>HTML5 - CSS3</li>
-<li>Javascript (Node.JS)</li>
+<li>HTML5 - CSS3 - Javascript</li>
+<li></li>
 <li>C# for Unity</li>
 </ul>
 
@@ -34,7 +34,7 @@
 <br>
 <ul>
 <li>Learn more about Frontend and Backend</li>
-<li>Learn more about videogames developing</li>
+<li>Learn more about videogames testing</li>
 <li>Expand my portfolio</li>
 <li>Create awesome projects</li>
 </ul>
