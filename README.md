@@ -1,8 +1,21 @@
-# Who is MegaBarto?
+
+[![Ubuntu][Ubuntu]][Ubuntu-url]
+[![Vue][Vue.js]][Vue-url]
+[![FastAPI][FastAPI]][FastAPI-url]
+[![Java][Java]][Java-url]
+[![Selenium][Selenium]][Selenium-url]
+[![Unity][Unity]][Unity-url]
+[![Visual Studio Code][VSCode]][VSCode-url]
+[![IntelliJ IDEA][IntelliJ]][IntelliJ-url]
+[![Notion][Notion.so]][Notion-url]
 
 <div align="center">
-  <img width=200 src="https://user-images.githubusercontent.com/70547458/184503864-bbb168ac-3ad3-41bf-98c2-7140e439dfab.png">
+  <img width=200 src="https://i.imgur.com/kBWOFBL.png">
+  <br>
+  <i>Tester, Gamer, Authentic God of Bartland.</i>
 </div>
+
+# Who is Barto?
 
 <b>Name:</b> Juan Alejandro Pérez Bermúdez
 
@@ -10,31 +23,44 @@
 
 <b>Studying:</b> Systems Engineering
 
-<b>University:</b> Universidad Técnológica de Pereira (U.T.P.)
+<b>University:</b> [Universidad Técnológica de Pereira](https://www.utp.edu.co)
+
+<b>Member of:</b> [Semillero de Investigación SONAR I.S.C](https://github.com/Sonar-ISC)
 
 <b>Country:</b> Colombia
 
-<b>Known Technologies:</b>
-<br>
+## Abilities
+
+* Testing Process Knowledges
+* Agile Methodologies
+* DevOps
+* Team Management
+
+## Future Goals
 <ul>
-<li>Java for Automation Tests</li>
-<li>Python</li>
-<li>HTML5 - CSS3 - Javascript</li>
-<li></li>
-<li>C# for Unity</li>
+  <li>Learn more about Backend</li>  
+  <li>Learn more about videogames testing</li>
+  <li>Expand my portfolio</li>
+  <li>Create awesome projects</li>
 </ul>
 
-<b>Recent Repositories:</b>
-<br>
-<ul>
-<li><a href='https://github.com/Mega-Barto/4-on-a-Row'>4 on a row</a></li>
-</ul>
-
-<b>Future Projects:</b>
-<br>
-<ul>
-<li>Learn more about Frontend and Backend</li>
-<li>Learn more about videogames testing</li>
-<li>Expand my portfolio</li>
-<li>Create awesome projects</li>
-</ul>
+[Ubuntu]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+[Ubuntu-url]: https://ubuntu-co.com
+[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue-url]: https://vuejs.org/
+[Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://www.python.org
+[FastAPI]: https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
+[FastAPI-url]: https://fastapi.tiangolo.com
+[Java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
+[Java-url]: https://www.java.com/es/
+[Selenium]: https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white
+[Selenium-url]: https://www.selenium.dev
+[Unity]: https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white
+[Unity-url]: https://unity.com/es
+[VSCode]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[VSCode-url]: https://code.visualstudio.com
+[IntelliJ]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
+[IntelliJ-url]: https://www.jetbrains.com/es-es/idea/
+[Notion.so]: https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
+[Notion-url]: https://megabarto.notion.site
