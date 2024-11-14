@@ -3,6 +3,8 @@
 [![Vue][Vue.js]][Vue-url]
 [![FastAPI][FastAPI]][FastAPI-url]
 [![Java][Java]][Java-url]
+[![Javascript][JS]][JS-url]
+[![Python][Py]][Py-url]
 [![Selenium][Selenium]][Selenium-url]
 [![Unity][Unity]][Unity-url]
 [![Visual Studio Code][VSCode]][VSCode-url]
@@ -42,6 +44,7 @@
   <li>Learn more about videogames testing</li>
   <li>Expand my portfolio</li>
   <li>Create awesome projects</li>
+  <li>Start my professional road</li>
 </ul>
 
 [Ubuntu]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
@@ -64,3 +67,7 @@
 [IntelliJ-url]: https://www.jetbrains.com/es-es/idea/
 [Notion.so]: https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
 [Notion-url]: https://megabarto.notion.site
+[JS]: https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge
+[JS-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[Py]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Py-url]: https://www.python.org
