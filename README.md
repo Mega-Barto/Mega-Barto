@@ -27,7 +27,9 @@
 
 <b>University:</b> [Universidad Técnológica de Pereira](https://www.utp.edu.co)
 
-<b>Member of:</b> [Semillero de Investigación SONAR I.S.C](https://github.com/Sonar-ISC)
+<b>Developer in:</b> [WebsPro](https://webspro.co/)
+
+<b>Cofounder of in:</b> [QAConf](https://qaconf.co/)
 
 <b>Country:</b> Colombia
 
@@ -35,16 +37,18 @@
 
 * Testing Process Knowledges
 * Agile Methodologies
-* DevOps
+* Web Develop
+* Deployment
 * Team Management
 
 ## Future Goals
 <ul>
-  <li>Learn more about Backend</li>  
+  <li>Learn more about Backend</li>
+  <li>Learn more about Test automation</li>
   <li>Learn more about videogames testing</li>
   <li>Expand my portfolio</li>
   <li>Create awesome projects</li>
-  <li>Start my professional road</li>
+  <li>Have an incredible professional road</li>
 </ul>
 
 [Ubuntu]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
@@ -69,5 +73,13 @@
 [Notion-url]: https://megabarto.notion.site
 [JS]: https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge
 [JS-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[Py]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Py-url]: https://www.python.org
+[React]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[React-url]: https://www.python.org
+[Django]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Django-url]: https://www.python.org
+[Py]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Py-url]: https://www.python.org
 [Py]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Py-url]: https://www.python.org
