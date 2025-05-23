@@ -29,7 +29,7 @@
 
 <b>Developer in:</b> [WebsPro](https://webspro.co/)
 
-<b>Cofounder of in:</b> [QAConf](https://qaconf.co/)
+<b>Cofounder of:</b> [QAConf](https://qaconf.co/)
 
 <b>Country:</b> Colombia
 
