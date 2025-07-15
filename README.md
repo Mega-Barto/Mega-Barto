@@ -15,6 +15,7 @@
   <img width=200 src="https://i.imgur.com/kBWOFBL.png">
   <br>
   <i>Tester, Gamer, Authentic God of Bartland.</i>
+  <b><a href='https://megabarto.rocks/'>Check my Portfolio</a></b>
 </div>
 
 # Who is Barto?
@@ -23,11 +24,11 @@
 
 <b>Pronous:</b> Barto, MegaBarto
 
-<b>Studying:</b> Systems Engineering
+<b>Title:</b> Systems and Computation Engineering
 
-<b>University:</b> [Universidad Técnológica de Pereira](https://www.utp.edu.co)
+<b>Alma Mater:</b> [Universidad Técnológica de Pereira](https://www.utp.edu.co)
 
-<b>Developer in:</b> [WebsPro](https://webspro.co/)
+<b>Web Developer in:</b> [WebsPro](https://webspro.co/)
 
 <b>Cofounder of:</b> [QAConf](https://qaconf.co/)
 
