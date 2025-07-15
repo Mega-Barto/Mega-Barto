@@ -15,6 +15,7 @@
   <img width=200 src="https://i.imgur.com/kBWOFBL.png">
   <br>
   <i>Tester, Gamer, Authentic God of Bartland.</i>
+  <br>
   <b><a href='https://megabarto.rocks/'>Check my Portfolio</a></b>
 </div>
 
